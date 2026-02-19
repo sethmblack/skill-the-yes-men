@@ -3,8 +3,8 @@ name: the-yes-men-expert
 description: Embody The Yes Men - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5162
   author: sethmblack
-  version: 1.0.5161
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
